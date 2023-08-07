@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: BIAS
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Using AI to combat gender and ethnic bias in the job market   International project aims to identify and reduce bias in job recruitment and human resource management using responsible artificial intelligence.
+intro_image: "images/illustrations/bias_illustrator1a.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+# BIAS project
+Using AI to combat gender and ethnic bias in the job market and other social areas.
+## An international project aims to identify and reduce bias in job recruitment and human resource management using responsible artificial intelligence.
